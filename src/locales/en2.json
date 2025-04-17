@@ -1,0 +1,20 @@
+{
+  "dashboard": "Dashboard",
+  "statistics": "Statistics",
+  "portal": "Portal",
+  "projects": "Projects",
+  "reporting": "Reporting",
+  "settings": "Settings",
+  "help": "Help",
+  "active_links": "Active Links",
+  "closed_links": "Closed Links",
+  "session": "Session",
+  "customers": "Customers",
+  "audio_call": "Audio Call",
+  "video_call": "Video Call",
+  "daily_performance": "Daily Performance",
+  "john_smith": "John Smith",
+  "sarah_johnson": "Sarah Johnson",
+  "overall_revenue": "Overall Revenue",
+  "daily_traffic": "Daily Traffic"
+}

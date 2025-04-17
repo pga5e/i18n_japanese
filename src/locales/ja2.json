@@ -1,0 +1,20 @@
+{
+  "dashboard": "ダッシュボード",
+  "statistics": "統計情報",
+  "portal": "ポータル",
+  "projects": "プロジェクト",
+  "reporting": "レポート",
+  "settings": "設定",
+  "help": "ヘルプ",
+  "active_links": "アクティブリンク",
+  "closed_links": "クローズリンク",
+  "session": "セッション",
+  "customers": "顧客",
+  "audio_call": "音声通話",
+  "video_call": "ビデオ通話",
+  "daily_performance": "日次パフォーマンス",
+  "john_smith": "ジョン・スミス",
+  "sarah_johnson": "サラ・ジョンソン",
+  "overall_revenue": "総収益",
+  "daily_traffic": "日次トラフィック"
+}
