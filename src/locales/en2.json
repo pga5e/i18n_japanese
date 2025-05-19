@@ -16,5 +16,19 @@
   "john_smith": "John Smith",
   "sarah_johnson": "Sarah Johnson",
   "overall_revenue": "Overall Revenue",
-  "daily_traffic": "Daily Traffic"
+  "daily_traffic": "Daily Traffic",
+
+  "translate_forms": "Translate Forms",
+  "project_list": "Project List",
+  "project": "Project",
+  "create_new_project": "Create New Project",
+  "project_name": "Project Name",
+  "enter_project_name": "Enter Project Name",
+  "project_type": "Project Type",
+  "standard": "Standard",
+  "survey": "Survey",
+  "registration": "Registration",
+  "feedback": "Feedback",
+  "disabled": "Disabled",
+  "enabled": "Enabled"
 }

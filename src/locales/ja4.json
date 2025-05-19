@@ -1,0 +1,70 @@
+{
+  "john_smith": "John Smith",
+  "john_smith_address": "123 Main Street, New York, NY 10001",
+
+  "sarah_johnson": "Sarah Johnson",
+  "sarah_johnson_address": "456 Park Avenue, Los Angeles, CA 90012",
+
+  "michael_brown": "Michael Brown",
+  "michael_brown_address": "789 Oak Road, Chicago, IL 60601"
+}
+
+{
+"john_smith": "ジョン・スミス",
+"john_smith_address": "ニューヨーク州ニューヨーク市メインストリート123番地 10001",
+
+"sarah_johnson": "サラ・ジョンソン",
+"sarah_johnson_address": "カリフォルニア州ロサンゼルス市パークアベニュー456番地 90012",
+
+"michael_brown": "マイケル・ブラウン",
+"michael_brown_address": "イリノイ州シカゴ市オークロード789番地 60601"
+}
+
+{
+            id: 1,
+            name: t("john_smith"),
+            address: t("john_smith_address"),
+            image: "https://bit.ly/dan-abramov",
+        },
+        {
+            id: 2,
+            name: t("sarah_johnson"),
+            address: t("sarah_johnson_address"),
+            image: "https://bit.ly/sage-adebayo",
+        },
+        {
+            id: 3,
+            name: t("michael_brown"),
+            address: t("michael_brown_address"),
+            image: "https://bit.ly/prosper-baba",
+        },
+        {
+            id: 4,
+            name: t("john_smith"),
+            address: t("john_smith_address"),
+            image: "https://bit.ly/sage-adebayo",
+        },
+        {
+            id: 5,
+            name: t("john_smith"),
+            address: t("john_smith_address"),
+            image: "https://bit.ly/prosper-baba",
+        },
+        {
+            id: 6,
+            name: t("john_smith"),
+            address: t("john_smith_address"),
+            image: "https://bit.ly/prosper-baba",
+        },
+        {
+            id: 7,
+            name: t("john_smith"),
+            address: t("john_smith_address"),
+            image: "https://bit.ly/sage-adebayo",
+        },
+        {
+            id: 8,
+            name: t("john_smith"),
+            address: t("john_smith_address"),
+            image: "https://bit.ly/sage-adebayo",
+        },
